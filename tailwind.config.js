@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       outline: {
-        green: '2px solid #6ee7b7',
+        gray: '2px solid #F9FAFB',
       }
     },
   },
